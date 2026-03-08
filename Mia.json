@@ -1,0 +1,229 @@
+[
+  {
+    "type": "circle",
+    "name": "head",
+    "x": 400,
+    "y": 180,
+    "radius": 60,
+    "fill": "#f7c59f",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "polygon",
+    "name": "hair",
+    "points": [ [340, 180], [330, 250], [400, 280], [470, 250], [460, 180] ],
+    "fill": "#8b4513",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "circle",
+    "name": "left_eye",
+    "x": 380,
+    "y": 200,
+    "radius": 6,
+    "fill": "#000000"
+  },
+  {
+    "type": "circle",
+    "name": "right_eye",
+    "x": 420,
+    "y": 200,
+    "radius": 6,
+    "fill": "#000000"
+  },
+  {
+    "type": "arc",
+    "name": "smile",
+    "x": 400,
+    "y": 170,
+    "radius": 25,
+    "startAngle": 20,
+    "endAngle": 160,
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "polygon",
+    "name": "dress",
+    "points": [ [400, 120], [350, 240], [450, 240] ],
+    "fill": "#ff69b4",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "line",
+    "name": "left_arm",
+    "x1": 385,
+    "y1": 150,
+    "x2": 330,
+    "y2": 210,
+    "stroke": "#000000",
+    "strokeWidth": 3
+  },
+  {
+    "type": "line",
+    "name": "right_arm",
+    "x1": 415,
+    "y1": 150,
+    "x2": 470,
+    "y2": 210,
+    "stroke": "#000000",
+    "strokeWidth": 3
+  },
+  {
+    "type": "line",
+    "name": "left_leg",
+    "x1": 385,
+    "y1": 240,
+    "x2": 375,
+    "y2": 330,
+    "stroke": "#000000",
+    "strokeWidth": 3
+  },
+  {
+    "type": "line",
+    "name": "right_leg",
+    "x1": 415,
+    "y1": 240,
+    "x2": 425,
+    "y2": 330,
+    "stroke": "#000000",
+    "strokeWidth": 3
+  },
+  {
+    "type": "line",
+    "name": "left_foot",
+    "x1": 375,
+    "y1": 330,
+    "x2": 355,
+    "y2": 330,
+    "stroke": "#000000",
+    "strokeWidth": 3
+  },
+  {
+    "type": "line",
+    "name": "right_foot",
+    "x1": 425,
+    "y1": 330,
+    "x2": 445,
+    "y2": 330,
+    "stroke": "#000000",
+    "strokeWidth": 3
+  },
+  {
+    "type": "circle",
+    "name": "teddy_head",
+    "x": 540,
+    "y": 220,
+    "radius": 25,
+    "fill": "#c68642",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "circle",
+    "name": "teddy_left_ear",
+    "x": 520,
+    "y": 200,
+    "radius": 10,
+    "fill": "#c68642",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "circle",
+    "name": "teddy_right_ear",
+    "x": 560,
+    "y": 200,
+    "radius": 10,
+    "fill": "#c68642",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "circle",
+    "name": "teddy_body",
+    "x": 540,
+    "y": 270,
+    "radius": 22,
+    "fill": "#c68642",
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "circle",
+    "name": "teddy_left_eye",
+    "x": 532,
+    "y": 220,
+    "radius": 3,
+    "fill": "#000000"
+  },
+  {
+    "type": "circle",
+    "name": "teddy_right_eye",
+    "x": 548,
+    "y": 220,
+    "radius": 3,
+    "fill": "#000000"
+  },
+  {
+    "type": "circle",
+    "name": "teddy_nose",
+    "x": 540,
+    "y": 230,
+    "radius": 4,
+    "fill": "#000000"
+  },
+  {
+    "type": "line",
+    "name": "teddy_left_arm",
+    "x1": 518,
+    "y1": 270,
+    "x2": 500,
+    "y2": 290,
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "line",
+    "name": "teddy_right_arm",
+    "x1": 562,
+    "y1": 270,
+    "x2": 580,
+    "y2": 290,
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "line",
+    "name": "teddy_left_leg",
+    "x1": 530,
+    "y1": 290,
+    "x2": 520,
+    "y2": 315,
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "line",
+    "name": "teddy_right_leg",
+    "x1": 550,
+    "y1": 290,
+    "x2": 560,
+    "y2": 315,
+    "stroke": "#000000",
+    "strokeWidth": 2
+  },
+  {
+    "type": "line",
+    "name": "girl_holding_teddy",
+    "x1": 470,
+    "y1": 210,
+    "x2": 520,
+    "y2": 245,
+    "stroke": "#000000",
+    "strokeWidth": 2
+  }
+]
